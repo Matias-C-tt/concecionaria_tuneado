@@ -1,0 +1,46 @@
+[
+    {
+        "patente": "APL123",
+        "marca": "Ford",
+        "modelo": "Fiesta",
+        "precio": 150000,
+        "km": 200,
+        "color": "Amarillo Patito",
+        "cuotas": 12,
+        "anio": 2019,
+        "vendido": false
+    },
+    {
+        "patente": "JJK116",
+        "marca": "Toyota",
+        "modelo": "Corolla",
+        "precio": 100000,
+        "km": 0,
+        "color": "Verde Fluorescente",
+        "cuotas": 14,
+        "anio": 2019,
+        "vendido": false
+    },
+    {
+        "patente": "JBB118",
+        "marca": "Toyota",
+        "modelo": "Hilux",
+        "precio": 500000,
+        "km": 0,
+        "color": "Tornasol",
+        "cuotas": 18,
+        "anio": 2016,
+        "vendido": false
+    },
+    {
+        "patente": "ACB132",
+        "marca": "Bicicleta",
+        "modelo": "Super Normal",
+        "precio": 3000000,
+        "km": 0,
+        "color": "Si",
+        "cuotas": 36,
+        "anio": 2025,
+        "vendido": false
+    }
+]
